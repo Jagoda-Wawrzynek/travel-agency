@@ -1,0 +1,35 @@
+{
+  "orders": [
+    {
+      "car-rental": "suv",
+      "accommodation": "suite",
+      "features": [
+        "all-inclusive"
+      ],
+      "adults": 2,
+      "children": "2",
+      "name": "Surprising jaunt in admirable United Arab Emirates",
+      "contact": "799253006",
+      "start-date": "2020-10-13T19:53:55.000Z",
+      "totalCost": "$208,899",
+      "id": "5cc1d10107e2be6064ff9129",
+      "countryCode": "ARE"
+    },
+    {
+      "car-rental": "luxury",
+      "accommodation": "house",
+      "features": [
+        "all-inclusive",
+        "kitchen"
+      ],
+      "adults": 2,
+      "children": "2",
+      "name": "Pleasant trek in outstanding Togo",
+      "contact": "799253006",
+      "start-date": "2020-10-13T19:53:55.000Z",
+      "totalCost": "$93,957",
+      "id": "5cc1d10181a30e85c8d9ad4a",
+      "countryCode": "TGO"
+    }
+  ]
+}
