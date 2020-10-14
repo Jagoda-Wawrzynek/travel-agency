@@ -13,10 +13,13 @@ import { formatPrice } from '../../../utils/formatPrice';
 const sendOrder = (options, tripCost, tripDetails) => {
   const totalCost = formatPrice(calculateTotal(tripCost, options));
 
+  const {id, ...restTripDetails}= tripDetails;
+
   const payload = {
     ...options,
     totalCost,
-    ...tripDetails,
+    ...restTripDetails,
+    tripId: id,
   };
 
   if (options.name != '' && options.contact != '') {

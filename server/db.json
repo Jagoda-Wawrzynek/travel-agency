@@ -30,6 +30,129 @@
       "totalCost": "$93,957",
       "id": "5cc1d10181a30e85c8d9ad4a",
       "countryCode": "TGO"
+    },
+    {
+      "car-rental": "full",
+      "accommodation": "hotel",
+      "features": [
+        "all-inclusive"
+      ],
+      "adults": 2,
+      "children": 0,
+      "name": "Fabulous outing in awesome United Arab Emirates",
+      "contact": "123456789",
+      "start-date": "",
+      "totalCost": "$228,671",
+      "id": "5cc1d10162f0f1af674aaf17",
+      "countryCode": "ARE"
+    },
+    {
+      "car-rental": "suv",
+      "accommodation": "house",
+      "features": [
+        "security"
+      ],
+      "adults": "1",
+      "children": 0,
+      "name": "Outstanding trek in magnificent Venezuela (Bolivarian Republic of)",
+      "contact": "098765432",
+      "start-date": "2020-10-13T21:54:23.000Z",
+      "totalCost": "$79,078",
+      "id": "5cc1d101ed390106eadbee81",
+      "countryCode": "VEN"
+    },
+    {
+      "car-rental": "full",
+      "accommodation": "hotel",
+      "features": [
+        "all-inclusive"
+      ],
+      "adults": "1",
+      "children": 0,
+      "name": "Astonishing swing in admirable Ukraine",
+      "contact": "julia.b@gmail.com",
+      "start-date": "",
+      "totalCost": "$98,539",
+      "id": "5cc1d101ea12c96fccb428ea",
+      "countryCode": "UKR"
+    },
+    {
+      "car-rental": "suv",
+      "accommodation": "house",
+      "features": [
+        "kitchen"
+      ],
+      "adults": 2,
+      "children": 0,
+      "name": "Fabulous swing in strange Viet Nam",
+      "contact": "12345",
+      "start-date": "2020-10-14T13:23:48.000Z",
+      "totalCost": "$22,506",
+      "id": "5cc1d101b5c152e861b59e67",
+      "countryCode": "VNM"
+    },
+    {
+      "car-rental": "suv",
+      "accommodation": "house",
+      "features": [
+        "kitchen"
+      ],
+      "adults": 2,
+      "children": 0,
+      "name": "Tremendous foray in remarkable Thailand",
+      "contact": "12345",
+      "start-date": "2020-10-14T13:23:48.000Z",
+      "totalCost": "$83,505",
+      "id": "5cc1d1013d4adc0ff0d2dab8",
+      "countryCode": "THA"
+    },
+    {
+      "car-rental": "suv",
+      "accommodation": "house",
+      "features": [
+        "kitchen"
+      ],
+      "adults": 2,
+      "children": 0,
+      "name": "Pleasant travel in cool Turkey",
+      "contact": "12345",
+      "start-date": "2020-10-14T13:23:48.000Z",
+      "totalCost": "$106,162",
+      "id": "5cc1d10130dfa407e2e54e20",
+      "countryCode": "TUR"
+    },
+    {
+      "car-rental": "full",
+      "accommodation": "hotel",
+      "features": [
+        "all-inclusive"
+      ],
+      "adults": 2,
+      "children": 0,
+      "name": "Pleasant travel in cool Turkey",
+      "contact": "123456",
+      "start-date": "",
+      "totalCost": "$103,362",
+      "countryCode": "TUR",
+      "tripId": "5cc1d10130dfa407e2e54e20",
+      "id": "61Rr1u2"
+    },
+    {
+      "car-rental": "luxury",
+      "accommodation": "house",
+      "features": [
+        "all-inclusive",
+        "pool"
+      ],
+      "adults": 2,
+      "children": "2",
+      "name": "Fabulous swing in strange Viet Nam",
+      "contact": "123456",
+      "start-date": "2020-10-15T17:19:25.000Z",
+      "totalCost": "$36,159",
+      "countryCode": "VNM",
+      "tripId": "5cc1d101b5c152e861b59e67",
+      "id": "TJo9BZX"
     }
   ]
 }
